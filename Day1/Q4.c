@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     int n ,n2, digits=0 ;
-    printf("Please enter the number of which you want The sum of digit of of = ");
+    printf("Please enter the number of which you want The Number of digit of of = ");
     scanf("%d",&n);
     //Since n is lost after loop
     n2=n;
