@@ -1,3 +1,4 @@
+//Program to find the least common multiple of two numbers
 #include <stdio.h>
 int main(){
     int n1 , n2 , div1[100] , N1=0 , N2=0 , div2[100] , gcd ,lcm ;
