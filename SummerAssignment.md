@@ -18,4 +18,8 @@ Day3
 
 I solved my daily 4 questions . Wanted to solve the question about HCF and LCM using arrays it was more difficult then doing it the way i previosly knew .BUT i am glad i did lerned many new things like accessing array from the last element in C . Also i learned toc ompare arrays of differnt length and also keep adding elements into arrary even if you don't know how many elements are to be added.
 
+Day4
+
+I solved my daily 4 questions . I learnt new concepts that are-- How a variable get destroyed in a loop and how to get around it . alsohow to apply range in loop properly :) . Was a productive day.
+
 
