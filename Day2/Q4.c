@@ -1,3 +1,4 @@
+//Program to find whether the number is a palindrome
 #include <stdio.h>
 #include <math.h>
 int main(){

@@ -1,4 +1,4 @@
-//sum of digits of a number
+//Program to find product of digits of a number
 #include<stdio.h>
 int main(){
     int n ,n2, digit ,product=1;
