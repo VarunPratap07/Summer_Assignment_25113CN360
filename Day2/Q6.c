@@ -1,4 +1,4 @@
-//Program to find whether the number is a palindrome
+//Program to find reverse of a number
 #include <stdio.h>
 #include <math.h>
 int main(){
@@ -18,9 +18,6 @@ int main(){
         digits-=1;
         n=n/10;
     }
-    printf("%d\n",revnum);
-    if(n2==revnum){
-        printf("The no %d is a palindrome",n2);
-    }
+    printf("The reverse of %d is %d \n",n2,revnum);
     return 0;
 }

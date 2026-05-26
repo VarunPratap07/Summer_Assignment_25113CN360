@@ -7,13 +7,13 @@ int main(){
     scanf("%d",&n1);
     printf("Please enter the second number = ");
     scanf("%d",&n2);
-    for(int i=1 ; i<n1 ; i++){
+    for(int i=1 ; i<=n1 ; i++){
             if(n1%i==0){
                 div1[N1]=i;
                 N1+=1;
             }
     }
-    for(int i=1 ; i<n2 ; i++){
+    for(int i=1 ; i<=n2 ; i++){
             if(n2%i==0){
                 div2[N2]=i;
                 N2+=1;
