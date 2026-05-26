@@ -23,6 +23,7 @@ Day4
 I solved my daily 4 questions . I learnt new concepts that are-- How a variable get destroyed in a loop and how to get around it . alsohow to apply range in loop properly :) . Was a productive day.
 
 Day5
+
 I solved my daily 4 questions. I learned what strong numbers are . I learned how to find length of array 
 length=sizeof(factors)/sizeof(factors[0]).Also i improoved my understanding of arrays.
 
