@@ -28,3 +28,9 @@ I solved my daily 4 questions. I learned what strong numbers are . I learned how
 length=sizeof(factors)/sizeof(factors[0]).
 Also i improoved my understanding of arrays.
 
+Day6
+
+I solved my daily 4 questions.Number of set bits in a number refers to the number of 1 in the binary number.
+
+
+
