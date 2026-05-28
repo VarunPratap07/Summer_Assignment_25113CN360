@@ -3,16 +3,16 @@
 Summer of 2026.
 
 
-Solving  daily questions during summer vacation :)
+Solving  daily questions during summer vacation .
 
 Day1 
 
-I solved 4 questions using C language.I have decided to learn C++,java,Python during summer vacation.I plan to change language from day to day to improve my inter language coding skills :) 
+I solved 4 questions using C language.I have decided to learn C++,java,Python during summer vacation.I plan to change language from day to day to improve my inter language coding skills.
 
 Day2
 
 I solved 4 questions using C language.Unfortunately did'nt get a chance to learn C++ due to external practical :( .Will try to solve the next day question using C++ 
-HOPEFULLY :)
+HOPEFULLY.
 
 Day3
 
@@ -27,4 +27,14 @@ Day5
 I solved my daily 4 questions. I learned what strong numbers are . I learned how to find length of array 
 length=sizeof(factors)/sizeof(factors[0]).
 Also i improoved my understanding of arrays.
+
+Day6
+
+I solved my daily 4 questions.learned what set bits of a number means.
+Set bits of a number are the toatal number of 1's in binary number.
+
+Day7
+
+I solved my daily 4 questions.Learned recursion technique . base value in recusion . First time use global variable.
+learned that return; inside void function breaks the function.
 
