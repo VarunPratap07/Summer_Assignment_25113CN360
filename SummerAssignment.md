@@ -28,13 +28,3 @@ I solved my daily 4 questions. I learned what strong numbers are . I learned how
 length=sizeof(factors)/sizeof(factors[0]).
 Also i improoved my understanding of arrays.
 
-Day6
-
-I solved my daily 4 questions.learned what set bits of a number means.
-Set bits of a number are the toatal number of 1's in binary number.
-
-Day7
-
-I solved my daily 4 questions.Learned recursion technique . base value in recusion . First time use global variable.
-learned that return; inside void function breaks the function.
-
