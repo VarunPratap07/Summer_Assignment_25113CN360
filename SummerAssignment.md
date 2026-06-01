@@ -1,6 +1,8 @@
 # Summer Vacation Self Learning Assignments
 
-Summer of 2026.
+NOTE --- I have added a .gitignore file to ignore the .exe file whenever I commit Solutions.
+
+SUMMER OF 2026.
 
 
 Solving  daily questions during summer vacation .
@@ -48,4 +50,5 @@ I learned the ASCII system and the fact that Char A corresponds to integar 65.
 Day9
 
 I learned more about nested loops.Also i learned about Whitespaces.
+Also today I added a git ignore file and removed all the .exe file from my repository.
 
