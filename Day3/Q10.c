@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main(){
     int l1 , l2  , div=0 ;
-    printf("Enter the loer limit you want to get prime numbers from = ");
+    printf("Enter the lower limit you want to get prime numbers from = ");
     scanf("%d",&l1);
     printf("Enter the upper limit you want to get prime numbers upto = ");
     scanf("%d",&l2);
