@@ -10,5 +10,5 @@ int main(){
     int n ;
     printf("Please enter the number you want sum of digits of = ");
     scanf("%d",&n);
-    printf("Fibonacci sum of digits of %d is %d\n",n,SumOfDigits(n));
+    printf("sum of digits of %d is %d\n",n,SumOfDigits(n));
 }
