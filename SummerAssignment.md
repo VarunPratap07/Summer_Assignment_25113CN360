@@ -52,3 +52,7 @@ I learned more about nested loops.Also i learned about Whitespaces.
 Also today I added a git ignore file and removed all the .exe file from my repository.
 I also learned to add colored text to readme file.
 
+Day-10
+
+Printed 4 more patterns today. managed to implement my own logic making use of if statement to implement upper and lower limit.Also learned that we can't write code in between if and else statement.
+
