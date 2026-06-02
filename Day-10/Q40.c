@@ -1,14 +1,12 @@
 /*
 Pogram to print the following pattern-- Character Pyramid.
 
-                         A                            
-                        ABA                           
-                       ABCBA                          
-                      ABCDCBA                         
-                     ABCDEDCBA                        
-                    ABCDEFEDCBA                       
-                   ABCDEFGFEDCBA
-                   
+    A                            
+   ABA                           
+  ABCBA                          
+ ABCDCBA                         
+ABCDEDCBA                        
+
 */
 #include <stdio.h>
 int main(){
