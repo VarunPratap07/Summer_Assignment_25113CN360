@@ -56,3 +56,7 @@ Day-10
 
 Printed 4 more patterns today. managed to implement my own logic making use of if statement to implement upper and lower limit.Also learned that we can't write code in between if and else statement.
 
+Day-11
+
+Created some functions. also learned about bool library <stdbool>. Created a boolean function.
+
