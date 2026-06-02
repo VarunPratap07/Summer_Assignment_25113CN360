@@ -5,7 +5,7 @@ Pogram to print the following pattern-- Character Pyramid.
    ABA                           
   ABCBA                          
  ABCDCBA                         
-ABCDEDCBA                        
+ABCDEDCBA                     
 
 */
 #include <stdio.h>
