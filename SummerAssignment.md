@@ -60,3 +60,6 @@ Day-11
 
 Created some functions. also learned about bool library <stdbool>. Created a boolean function.
 
+Day-12
+
+Created some more functions of previous questions I attempted.
