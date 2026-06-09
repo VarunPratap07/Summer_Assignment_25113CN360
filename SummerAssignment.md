@@ -63,3 +63,8 @@ Created some functions. also learned about bool library <stdbool>. Created a boo
 Day-12
 
 Created some more functions of previous questions I attempted.
+
+Day-13
+
+Solved some array questions today. also learned to create a variable length array.
+
