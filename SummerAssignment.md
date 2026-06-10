@@ -68,3 +68,6 @@ Day-13
 
 Solved some array questions today. also learned to create a variable length array.
 
+Day-14
+
+Solved more array questions today using linear search technique.Also learned to skip array element when required.

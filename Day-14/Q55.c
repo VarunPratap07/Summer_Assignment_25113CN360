@@ -1,7 +1,7 @@
-//Program to find smallest and largest element in an array.
+//Program to find the second largest element.
 #include <stdio.h>
 int main(){
-    int n , temp;
+    int n , temp ,secondlargest;
     printf("Please enter the number of element in the array = ");
     scanf("%d",&n);
     int a[n] ;
@@ -25,6 +25,23 @@ int main(){
             }
         }
     }
-    printf("The smallest element is %d.\n",a[0]);
-    printf("The largest element is %d.\n",a[n-1]);
+    //Considering no negative element.
+    secondlargest=-1;
+    int largest ;
+    largest=a[n-1];
+    for(int i=n-1 ; i>=0 ; i--){
+        if(a[i]!=largest){
+            secondlargest=a[i];
+            break;
+        }
+        else{
+            continue;
+        }
+    }
+    if(secondlargest == -1){
+        printf("There is no second largest element.\n");
+    }
+    else{
+        printf("The second largest element is %d.\n", secondlargest);
+    }
 }
